@@ -1,0 +1,23 @@
+name: pagando_neumorphic
+description: A complete, ready to use, Neumorphic ui kit for Flutter. Dark theming compatible & fully customizable.
+version: 0.0.1
+homepage: https://github.com/fcampos-raodsystem/pagando_neumorphic
+issue_tracker: https://github.com/fcampos-raodsystem/pagando_neumorphic/issues
+
+environment:
+  sdk: ^3.0.0
+  flutter: ^3.22.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: NeumorphicIcons
+      fonts:
+        - asset: fonts/NeumorphicIcons.ttf
